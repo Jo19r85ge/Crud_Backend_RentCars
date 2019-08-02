@@ -1,0 +1,9 @@
+C:\Users\Jorge\Desktop\Repo GitHub\RentCars\RentCars\RentCars.Web\bin\Debug\netcoreapp2.2\RentCars.Lib.DAL.dll
+C:\Users\Jorge\Desktop\Repo GitHub\RentCars\RentCars\RentCars.Web\bin\Debug\netcoreapp2.2\RentCars.Lib.dll
+C:\Users\Jorge\Desktop\Repo GitHub\RentCars\RentCars\RentCars.Web\obj\Debug\netcoreapp2.2\RentCars.Web.csprojAssemblyReference.cache
+C:\Users\Jorge\Desktop\Repo GitHub\RentCars\RentCars\RentCars.Web\obj\Debug\netcoreapp2.2\RentCars.Web.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\Desktop\Repo GitHub\RentCars\RentCars\RentCars.Web\obj\Debug\netcoreapp2.2\RentCars.Web.RazorAssemblyInfo.cache
+C:\Users\Jorge\Desktop\Repo GitHub\RentCars\RentCars\RentCars.Web\obj\Debug\netcoreapp2.2\RentCars.Web.RazorAssemblyInfo.cs
+C:\Users\Jorge\Desktop\Repo GitHub\RentCars\RentCars\RentCars.Web\obj\Debug\netcoreapp2.2\RentCars.Web.AssemblyInfoInputs.cache
+C:\Users\Jorge\Desktop\Repo GitHub\RentCars\RentCars\RentCars.Web\obj\Debug\netcoreapp2.2\RentCars.Web.AssemblyInfo.cs
+C:\Users\Jorge\Desktop\Repo GitHub\RentCars\RentCars\RentCars.Web\obj\Debug\netcoreapp2.2\RentCars.Web.RazorTargetAssemblyInfo.cache

@@ -1,0 +1,6 @@
+C:\Users\Jorge\Desktop\Repo GitHub\RentCars\RentCars\RentCars.Lib.DAL\bin\Debug\netstandard2.0\RentCars.Lib.DAL.deps.json
+C:\Users\Jorge\Desktop\Repo GitHub\RentCars\RentCars\RentCars.Lib.DAL\bin\Debug\netstandard2.0\RentCars.Lib.DAL.dll
+C:\Users\Jorge\Desktop\Repo GitHub\RentCars\RentCars\RentCars.Lib.DAL\obj\Debug\netstandard2.0\RentCars.Lib.DAL.csprojAssemblyReference.cache
+C:\Users\Jorge\Desktop\Repo GitHub\RentCars\RentCars\RentCars.Lib.DAL\obj\Debug\netstandard2.0\RentCars.Lib.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\Desktop\Repo GitHub\RentCars\RentCars\RentCars.Lib.DAL\obj\Debug\netstandard2.0\RentCars.Lib.DAL.AssemblyInfoInputs.cache
+C:\Users\Jorge\Desktop\Repo GitHub\RentCars\RentCars\RentCars.Lib.DAL\obj\Debug\netstandard2.0\RentCars.Lib.DAL.AssemblyInfo.cs
