@@ -7,3 +7,13 @@ C:\Users\Jorge\Desktop\Repo GitHub\RentCars\RentCars\RentCars.Web\obj\Debug\netc
 C:\Users\Jorge\Desktop\Repo GitHub\RentCars\RentCars\RentCars.Web\obj\Debug\netcoreapp2.2\RentCars.Web.AssemblyInfoInputs.cache
 C:\Users\Jorge\Desktop\Repo GitHub\RentCars\RentCars\RentCars.Web\obj\Debug\netcoreapp2.2\RentCars.Web.AssemblyInfo.cs
 C:\Users\Jorge\Desktop\Repo GitHub\RentCars\RentCars\RentCars.Web\obj\Debug\netcoreapp2.2\RentCars.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Jorge\Desktop\Repo GitHub\RentCars\RentCars\RentCars.Web\bin\Debug\netcoreapp2.2\RentCars.Web.deps.json
+C:\Users\Jorge\Desktop\Repo GitHub\RentCars\RentCars\RentCars.Web\bin\Debug\netcoreapp2.2\RentCars.Web.runtimeconfig.json
+C:\Users\Jorge\Desktop\Repo GitHub\RentCars\RentCars\RentCars.Web\bin\Debug\netcoreapp2.2\RentCars.Web.runtimeconfig.dev.json
+C:\Users\Jorge\Desktop\Repo GitHub\RentCars\RentCars\RentCars.Web\bin\Debug\netcoreapp2.2\RentCars.Web.dll
+C:\Users\Jorge\Desktop\Repo GitHub\RentCars\RentCars\RentCars.Web\bin\Debug\netcoreapp2.2\RentCars.Web.pdb
+C:\Users\Jorge\Desktop\Repo GitHub\RentCars\RentCars\RentCars.Web\bin\Debug\netcoreapp2.2\RentCars.Lib.DAL.pdb
+C:\Users\Jorge\Desktop\Repo GitHub\RentCars\RentCars\RentCars.Web\bin\Debug\netcoreapp2.2\RentCars.Lib.pdb
+C:\Users\Jorge\Desktop\Repo GitHub\RentCars\RentCars\RentCars.Web\obj\Debug\netcoreapp2.2\RentCars.Web.csproj.CopyComplete
+C:\Users\Jorge\Desktop\Repo GitHub\RentCars\RentCars\RentCars.Web\obj\Debug\netcoreapp2.2\RentCars.Web.dll
+C:\Users\Jorge\Desktop\Repo GitHub\RentCars\RentCars\RentCars.Web\obj\Debug\netcoreapp2.2\RentCars.Web.pdb

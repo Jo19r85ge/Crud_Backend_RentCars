@@ -4,3 +4,6 @@ C:\Users\Jorge\Desktop\Repo GitHub\RentCars\RentCars\RentCars.Lib\obj\Debug\nets
 C:\Users\Jorge\Desktop\Repo GitHub\RentCars\RentCars\RentCars.Lib\obj\Debug\netstandard2.0\RentCars.Lib.csproj.CoreCompileInputs.cache
 C:\Users\Jorge\Desktop\Repo GitHub\RentCars\RentCars\RentCars.Lib\obj\Debug\netstandard2.0\RentCars.Lib.AssemblyInfoInputs.cache
 C:\Users\Jorge\Desktop\Repo GitHub\RentCars\RentCars\RentCars.Lib\obj\Debug\netstandard2.0\RentCars.Lib.AssemblyInfo.cs
+C:\Users\Jorge\Desktop\Repo GitHub\RentCars\RentCars\RentCars.Lib\bin\Debug\netstandard2.0\RentCars.Lib.pdb
+C:\Users\Jorge\Desktop\Repo GitHub\RentCars\RentCars\RentCars.Lib\obj\Debug\netstandard2.0\RentCars.Lib.dll
+C:\Users\Jorge\Desktop\Repo GitHub\RentCars\RentCars\RentCars.Lib\obj\Debug\netstandard2.0\RentCars.Lib.pdb
